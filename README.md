@@ -97,5 +97,12 @@ Predict 30-day hospital readmission risk for diabetic patients using clinical da
 
 ---
 
+## 🙋‍♂️ Author  
+**Sammy S. Mutuku**  
+📍 Nairobi, Kenya | 🌐 [LinkedIn](https://linkedin.com/in/samsubu) | 💻 [GitHub](https://github.com/subu53)  
+📧 subusam5@gmail.com  
+
+---
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 *Contributions welcome! See CONTRIBUTING.md for guidelines.*
